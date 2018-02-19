@@ -7,7 +7,7 @@
 
 import Foundation 
 import ObjectMapper
-
+import UIKit
 
 class Validator : NSObject, NSCoding, Mappable{
 
